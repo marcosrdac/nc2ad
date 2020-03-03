@@ -89,13 +89,13 @@ Create fake NetCDF data with:
 ```sh
 python create_testfile.py
 ```
-Now there is a testfile.nc NetCDF4 file inside the folder. Its variables are x, y and z.
+Now there is a "testfile.nc" NetCDF4 file in your folder. Its variables are *x*, *y* and *z*.
 
 
-Extract a variable to fortran binary (.ad) with:
+Extract a variable to fortran binary (*.ad*) with:
 
 ```sh
-./nc2ad testfile.py
+./nc2ad testfile.nc
 ```
 
 See its values in Fortran with:
