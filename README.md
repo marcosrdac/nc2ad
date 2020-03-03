@@ -38,7 +38,7 @@ before the first command.
 
 ### Default output file path:
 ```sh
-    {filedir}/{filename}_{variable}_{nrows}_{ncols}.ad
+{filedir}/{filename}_{variable}_{nrows}_{ncols}.ad
 ```
 
 
