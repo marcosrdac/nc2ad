@@ -107,8 +107,9 @@ Use `testadopen.f90` as a templates for oppening these .ad files.
 
 
 ## contact
-
-  *Name*: Marcos Conceição
-  *E-mail*: marcosrdac@gmail.com
-  *GitHub*: github/marcosrdac
-  *Website*: marcosrdac.github.io
+|| Contact |
+| - | - |
+|  *Name* | Marcos Conceição |
+|  *E-mail* | marcosrdac@gmail.com |
+|  *GitHub* | github/marcosrdac |
+| *Website* | marcosrdac.github.io |
