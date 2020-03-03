@@ -111,7 +111,7 @@ if __name__=='__main__':
 
     # saving array
     nrows = arr.shape[0]
-    ncols = arr.shape[1]
+    ncols = arr.shape[1]-1
 
     if '-o' in  argv or '--output-basepath' in argv or '-O' in argv:
         try:
